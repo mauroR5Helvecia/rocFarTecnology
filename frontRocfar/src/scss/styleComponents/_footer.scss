@@ -1,0 +1,52 @@
+
+
+.containerIconos{
+    height: 80px;
+}
+
+.ico{
+    height: 33px;
+    width: 33px;
+}
+.tecn1{
+    height: 80px;
+}
+
+.tecn2{
+    height: 80px;
+}
+
+.icoT{
+    height: 27px;
+    height: 27px;
+}
+
+.Copyright{
+    font-size: 12px;
+}
+
+.fotext{
+    color: $gris;
+    font-size: 12px;
+    line-height: 1;
+
+}
+
+.contactFooter{
+    position: relative;
+    right: 50px;
+}
+
+.iconWhith {
+    color: #ffffff; /* Define el color deseado para el icono de LinkedIn */
+  }
+
+  .linktecnologias{
+    color: inherit; 
+    text-decoration: none;
+  }
+
+  .linktecnologias:hover{
+    color: $titleResalt;
+    font-size: 16px;
+  }

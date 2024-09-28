@@ -1,0 +1,54 @@
+.language-selector {
+    position: relative;
+  }
+  
+  .language-toggle {
+    z-index: 2;
+  }
+  
+  .language-options {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    padding: 10px;
+  }
+  
+  .language-options .flag-icon {
+    width: 30px;
+    height: auto;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  
+  .language-options .flag-icon:last-child {
+    margin-right: 0;
+  }
+
+  .tamimgban{
+    width: 25px;
+    height: 25px;
+  }
+  
+  .language-options {
+    display: flex;
+  }
+  
+  .flag-icon.option {
+    width: 30px;
+    height: 25px;
+    margin-right: 5px;
+  }
+  
+  .fr-flag {
+    margin-left: -5px;
+  }
+
+  .container-lang{
+    margin-left: 10px;
+  }
+  

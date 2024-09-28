@@ -1,0 +1,21 @@
+// Import all of Bootstrap's CSS
+
+@import "bootstrap/scss/bootstrap";
+@import "./base/resets";
+@import "./abstracts/variable";
+@import "./abstracts/backgroundAndText";
+@import "./abstracts/mixin";
+
+// import components
+
+@import "./styleComponents/navbar";
+@import "./styleComponents/carrusel";
+@import "./styleComponents/textHome";
+@import "./styleComponents/contactoAndText";
+@import "./styleComponents/footer";
+@import "./styleComponents/botton";
+@import "./styleComponents/sobreNosotrosBody";
+@import "./styleComponents/buttonLenguaje";
+@import "./styleComponents/formulario";
+@import "./styleComponents/servicio_cliente";
+@import "./base/modeLightDark";

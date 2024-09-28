@@ -1,0 +1,15 @@
+@import "../abstracts/variable";
+
+.light{
+    color: #0f0f0f;
+    background-color:$terciaricolor
+}
+
+.dark{
+    background-color :#131313e4 ;
+    color: #EEEEEE;
+}
+
+.title-resalt{
+    color: $titleResalt;
+}
