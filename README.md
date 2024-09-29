@@ -1,1 +1,8 @@
-# rocFarTecnology
+
+# Proyecto Personal: rocFar - 
+
+Este proyecto representa la página inicial de rocFar, un negocio que nació antes de que comenzara mi aprendizaje en tecnologías en el año 2020. RocFar fue mi primer acercamiento a la creación de sistemas propios, y desde entonces, ha sido el motor que me impulsa a seguir aprendiendo y desarrollando habilidades en el mundo del desarrollo de software.
+
+Comencé con una idea y un sueño personal antes del aprendizaje tecnológico. Siempre me gusto crear negocios, de hecho emprendí en muchos en los años que tengo, cuando nacio esta idea, la de crear soluciones digitales que no solo resuelvan problemas, sino que también aporten valor y faciliten la vida de las personas. 
+
+El desarrollo de rocFar es más que un simple proyecto técnico; es una expresión de mi pasión por la tecnología y mi deseo de crear. Mi objetivo ha sido siempre aprender a construir sistemas que hagan la vida más fácil, y a través de este proyecto, busco seguir aprendiendo y superándome cada día. 
